@@ -3,7 +3,7 @@
 
 ## Description:
 
-This project is a clone of the popular streaming service **Netflix**. It has been developed using **HTML, CSS** to replicate the fundamental functionalities and design aesthetics of the original Netflix website.
+This project is a clone of the popular streaming service **Netflix**. It has been developed using **HTML, CSS** to replicate the fundamental functionalities and design aesthetics of the original **Netflix website**.
 
 
 ## Special Features:
