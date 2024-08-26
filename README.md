@@ -11,6 +11,8 @@ One of the standout features of this clone is its <b>responsive</b> design. The 
 
 ## Application Screenshots
 ![Netflix-Clone](Application-Screenshots/netflix1.png)
+![Netflix-Clone](Application-Screenshots/netflix2.png)
+![Netflix-Clone](Application-Screenshots/netflix3.png)
 
 ## Usage:
 To access the **Netflix clone**, simply open the **index.html** file in any web browser of your choice. There's no need for any additional installations or configurations, making it easy for users to get started immediately.
