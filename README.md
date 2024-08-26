@@ -21,7 +21,7 @@ To access the **Netflix clone**, simply open the **index.html** file in any web 
 
 
 ## Installation:
-No installation process is required for this project. Users can clone the repository from GitHub and open the index.html file directly in their browser to start exploring the Netflix clone.
+No installation process is required for this project. Users can clone the repository from GitHub and open the **index.html** file directly in their browser to start exploring the Netflix clone.
 
 
 ## Acknowledgements:
