@@ -10,7 +10,7 @@ This project is a clone of the popular streaming service **Netflix**. It has bee
 One of the standout features of this clone is its <b>responsive</b> design. The website is optimized to provide a seamless viewing experience across various devices and screen sizes, ensuring accessibility and usability for all users.
 
 ## Application Screenshots:
-![Netflix-Clone](Application-Screenshots/netflix1.png)
+![Netflix-Clone-Home Page](Application-Screenshots/netflix1.png)
 ![Netflix-Clone](Application-Screenshots/netflix2.png)
 ![Netflix-Clone](Application-Screenshots/netflix3.png)
 ![Netflix-Clone](Application-Screenshots/netflix4.png)
